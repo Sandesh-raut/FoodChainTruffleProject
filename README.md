@@ -24,11 +24,14 @@ This repository contains the frontend, backend, and Ethereum smart contracts for
 |   |-- /controllers
 |   |-- package.json
 |   |-- server.js
+|   |-- .env.example
+|   |-- .env
 |
 |-- /frontend
 |   |-- /src
 |   |-- /public
 |   |-- package.json
+|   |-- .env.example
 |   |-- .env
 |
 |-- /smart-contracts
